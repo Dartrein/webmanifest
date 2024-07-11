@@ -11,13 +11,13 @@
       "name": "Ароматические масла",
       "short_name": "Ароматические масла",
       "description": "Ароматические масла (аромамасла, ароматизаторы, отдушки) премиум-класса от Candle Science, Nature's Garden и NorthWood для свечей, мыла, косметики и диффузоров.",
-      "url": "/fragrance-oil",
+      "url": "/fragrance-oil"
     },
     {
       "name": "Базы для рум и боди спрея",
       "short_name": "Базы для рум и боди спрея",
       "description": "Основы без запаха для изготовления рум и боди спреев.",
-      "url": "/base-for-spray",
+      "url": "/base-for-spray"
     }
   ],
 "screenshots": [
