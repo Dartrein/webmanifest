@@ -5,19 +5,19 @@
 "display": "minimal-ui",
 "background_color": "#FFF", "theme_color": "#111", "description": "В магазине Flame Buro вы можете купить отдушки (аромамасла, ароматические масла, ароматизаторы) из США CandleScience, The Flaming Candle, Nature's Garden и NorthWood Candle Supply. Более 100 наименований. Доставка по России и странам СНГ.",
 "orientation":"any",
-"icons": [ { "src": "https://static.tildacdn.com/tild3461-6639-4162-a438-333166333962/favicon.svg", "sizes": "1024x1024", "type": "image/svg" }, { "src": "https://static.tildacdn.com/tild3362-6366-4562-b936-653837626437/favicon_maskable.svg", "sizes": "1024x1024", "type": "image/svg","purpose":"maskable"} ] ,
+"icons": [ { "src": "https://static.tildacdn.com/tild3461-6639-4162-a438-333166333962/favicon.svg", "sizes": "1024x1024", "type": "image/svg","purpose":"any" }, { "src": "https://static.tildacdn.com/tild3362-6366-4562-b936-653837626437/favicon_maskable.svg", "sizes": "1024x1024", "type": "image/svg","purpose":"maskable"} ] ,
 "shortcuts": [
     {
       "name": "Ароматические масла",
       "short_name": "Ароматические масла",
       "description": "Ароматические масла (аромамасла, ароматизаторы, отдушки) премиум-класса от Candle Science, Nature's Garden и NorthWood для свечей, мыла, косметики и диффузоров.",
-      "url": "/fragrance-oil"
+      "url": "https://flameburo.ru/fragrance-oil"
     },
     {
       "name": "Базы для рум и боди спрея",
       "short_name": "Базы для рум и боди спрея",
       "description": "Основы без запаха для изготовления рум и боди спреев.",
-      "url": "/base-for-spray"
+      "url": "https://flameburo.ru/base-for-spray"
     }
   ],
 "screenshots": [
