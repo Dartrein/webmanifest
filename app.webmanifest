@@ -5,7 +5,7 @@
 "display": "browser",
 "background_color": "#FFF", "theme_color": "#111", "description": "В магазине Flame Buro вы можете купить отдушки (аромамасла, ароматические масла, ароматизаторы) из США CandleScience, The Flaming Candle, Nature's Garden и NorthWood Candle Supply. Более 100 наименований. Доставка по России и странам СНГ.",
 "orientation":"any",
-"icons": [ { "src": "https://static.tildacdn.com/tild6361-3630-4962-b030-363931663934/favicon.svg", "sizes": "1024x1024", "type": "image/svg" }, { "src": "https://static.tildacdn.com/tild6262-6335-4732-a165-653031346363/favicon_maskable.svg", "sizes": "1024x1024", "type": "image/svg","purpose":"maskable"} ] ,
+"icons": [ { "src": "https://static.tildacdn.com/tild3461-6639-4162-a438-333166333962/favicon.svg", "sizes": "1024x1024", "type": "image/svg" }, { "src": "https://static.tildacdn.com/tild3362-6366-4562-b936-653837626437/favicon_maskable.svg", "sizes": "1024x1024", "type": "image/svg","purpose":"maskable"} ] ,
 "screenshots": [
 
         {
