@@ -13,8 +13,8 @@
       "url": "mailto:info@flameburo.ru"
     },
     {
-      "protocol": "web+store",
-      "url": "/?wpaId=%s"
+      "protocol": "web+pwa",
+      "url": "/?utm_medium=PWA&utm_source=launcher"
     }
   ],
 "shortcuts": [
